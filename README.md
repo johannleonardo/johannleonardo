@@ -1,6 +1,6 @@
-## Opa! Eu sou Leonardo G. Johann
+## Olá, eu sou Leonardo Johann!
 
-💻- Estudando Programação Front-End.
+💻- Programador Full Stack | Sistemas de Informação
 
 
 <div style="display: inline_block"><br>
